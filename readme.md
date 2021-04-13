@@ -39,4 +39,4 @@ sysctl -w net.nf_conntrack_max=1000000
 
 ```bash
 CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build
-```# baiwan-bingfa
+```
